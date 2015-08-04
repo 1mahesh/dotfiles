@@ -1,0 +1,14 @@
+# Easier navigation: .., ..., ...., ....., ~ and -
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias -- -="cd -"
+
+alias d="cd ~/Documents/"
+alias dl="cd ~/Downloads"
+alias dt="cd ~/Desktop"
+alias dev="cd ~/dev"
+alias g="git"
+alias h="history"
+alias j="jobs"
